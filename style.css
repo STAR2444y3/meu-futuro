@@ -12,10 +12,24 @@
     padding: 24px 0;
 }
 .imagem-principal{
-    width: 2%;
+    width: 5%;
 }
 .lista-principal{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+.futuro{
+    background-color: mistyrose;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.div-conteudo{
+    width: 35%;
+}
+.titulo{
+    padding: 24px 0;
 }
